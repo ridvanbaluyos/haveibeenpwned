@@ -37,6 +37,12 @@ class PwnedPasswords extends Pwned
         $url = $this->endpoint . 'pwnedpassword/' . $this->password;
         $pwnedPasswords = $this->requestGet($url);
 
+        if (empty($pwnedPasswords)) {
+            return [
+                'code' => 200,
+                'message' =>'Oh no — pwned! This password has previously appeared in a data breach and should never be used. If you\'ve ever used it anywhere before, change it immediately!'
+            ];
+        }
         return $pwnedPasswords;
     }
 
