@@ -1,5 +1,6 @@
 # haveibeenpwned
 A PHP Library built for [';--have i been pwned?](https://haveibeenpwned.com) 
+[![Latest Stable Version](https://poser.pugx.org/ridvanbaluyos/haveibeenpwned/v/stable)](https://packagist.org/packages/ridvanbaluyos/haveibeenpwned) [![Total Downloads](https://poser.pugx.org/ridvanbaluyos/haveibeenpwned/downloads)](https://packagist.org/packages/ridvanbaluyos/haveibeenpwned)[![License](https://poser.pugx.org/ridvanbaluyos/haveibeenpwned/license)](https://packagist.org/packages/ridvanbaluyos/haveibeenpwned)
 
 ## Table of contents ##
 - [Requirements](#requirements)
