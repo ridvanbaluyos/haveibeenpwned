@@ -1,6 +1,6 @@
 {
 	"name": "ridvanbaluyos/haveibeenpwned",
-	"version": "v1",
+	"version": "v0.1",
 	"type": "library",
 	"description": "A PHP Package built for the haveibeenpwned.com API.",
 	"keywords": ["php", "haveibeenpwned", "infosec"],
