@@ -79,7 +79,7 @@ $dataClasses = new DataClasses();
 $result = $dataClasses->get();
 ````
 
-####Pastes Account
+#### Pastes Account
 ```php
 <?php
 use \Ridvanbaluyos\Pwned\PasteAccount as PasteAccount;
