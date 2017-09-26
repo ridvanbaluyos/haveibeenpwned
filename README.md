@@ -1,6 +1,7 @@
 # haveibeenpwned
 A PHP Library built for [';--have i been pwned?](https://haveibeenpwned.com) 
 
+[![Actively Maintained](https://maintained.tech/badge.svg)](https://maintained.tech/)
 [![Latest Stable Version](https://poser.pugx.org/ridvanbaluyos/haveibeenpwned/v/stable)](https://packagist.org/packages/ridvanbaluyos/haveibeenpwned) [![Total Downloads](https://poser.pugx.org/ridvanbaluyos/haveibeenpwned/downloads)](https://packagist.org/packages/ridvanbaluyos/haveibeenpwned) [![License](https://poser.pugx.org/ridvanbaluyos/haveibeenpwned/license)](https://packagist.org/packages/ridvanbaluyos/haveibeenpwned) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ridvanbaluyos/haveibeenpwned/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ridvanbaluyos/haveibeenpwned/?branch=master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4fe970650caa4e0fad6ef651ff289a55)](https://www.codacy.com/app/ridvanbaluyos/haveibeenpwned?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ridvanbaluyos/haveibeenpwned&amp;utm_campaign=Badge_Grade)
 
 ## Table of contents ##
